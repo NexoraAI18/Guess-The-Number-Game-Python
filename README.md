@@ -60,5 +60,5 @@ You guessed it in 3 attempts
 - Random Number Generation
 - Attempt Counter
 
-## Authr 
+## Author 
 Faraz
